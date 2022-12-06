@@ -1,4 +1,4 @@
-#<h2 aligmn="center">**Bin9**<h2>
+#<h2 aligmn="center">**Bin9**</h2>
 Instalação
 
 Instalação dos pacotes do Bind9 e a documentação:
