@@ -1,4 +1,4 @@
-<h1 align="center">Bin9</h1>
+<h1 align="center">Bind9</h1>
 <p>Este documento apresenta um tutorial de instalação e configuração do Bind9, um sistema DNS, que trata da resolução de nomes para endereços IP e vice-versa.<p>
 
 
