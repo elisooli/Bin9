@@ -115,7 +115,7 @@ nameserver 10.9.1.202
 <h4>Teste</h4>
 
 ```
-nslookup server
+nslookup exemplo.com
 nslookup 10.1.9.202
 ```
 
