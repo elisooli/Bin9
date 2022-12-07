@@ -20,7 +20,8 @@ nano named.conf.local
 
 No arquivo, adicione uma zona direta e uma reversa. No trecho abaixo, foi usado "exemplo.com" como domínio:
 
-```//zona direta
+```
+//zona direta
 zone exemplo.com { 
 type master; 
 file "/etc/bind.db.exemplo.com"
