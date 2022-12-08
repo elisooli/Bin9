@@ -62,7 +62,7 @@ $TTL	604800
                          604800 )		 ; Negative Cache TTL
 ;
 @	IN  NS 	    exemplo.com
-@	IN  A       10.9.1.202
+@	IN  A       10.9.1.193
 @	IN  AAA     ::1
 ```
 
@@ -110,7 +110,7 @@ Adicione:
 ```
 Domain exemplo.com
 Search exemplo.com
-nameserver 10.9.1.202 
+nameserver 10.9.1.193
 ```
  
 <h4>Teste</h4>
