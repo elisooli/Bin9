@@ -117,6 +117,6 @@ nameserver 10.9.1.193
 
 ```
 nslookup exemplo.com
-nslookup 10.1.9.202
+nslookup 10.9.1.193
 ```
 
