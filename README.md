@@ -45,7 +45,8 @@ cp db.local db.1.9.10
  
 <h4>Edição do arquivo db.exempo.com</h4>
 
-```nano db.exemplo.com```
+`nano db.exemplo.com`
+
 
 Deixe o arquivo assim, no lugar de localhost. substitua por exemplo.com e adicione o IP da máquina:
 
