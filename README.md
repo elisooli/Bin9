@@ -72,7 +72,9 @@ Verifique se há erros:
 ```named-checkzone exemplo.com /etc/bind/db.exemplo.com```
 
 <h4>Edição do arquivo db.1.9.10</h4>
-nano db.1.9.10
+
+`nano db.1.9.10`
+
 Deixe o arquivo assim, no lugar de localhost. substitua por exemplo.com:
 
 ```
